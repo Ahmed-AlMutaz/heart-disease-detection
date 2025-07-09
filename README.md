@@ -1,7 +1,19 @@
-# 💓 Heart Disease Prediction App
+# Heart Disease Prediction App 💓
 
-This project is a complete machine learning pipeline for predicting heart disease using clinical data.  
-It includes preprocessing, feature selection, modeling, and a deployed web interface using Streamlit.
+A machine learning pipeline to predict heart disease using clinical data.  
+Built using Python, Scikit-learn, and Streamlit.
+
+## 💻 Files Included
+- `App.py`: Streamlit UI
+- `pipeline_model2.joblib`: Trained model pipeline
+- `used_features2.json`: List of used features
+- `heart_disease_cleaned.csv`: Dataset
+- `requirements.txt`: Required libraries
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+streamlit run ui/App.py
 
 ---
 
