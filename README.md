@@ -89,47 +89,7 @@ See: requirements.txt
 
 
 📬 Contact
-For any questions, feel free to reach out to [your email or GitHub profile link].
+For any questions, feel free to reach out to [amotaz792@gmail.com ].
 
 نسخ
-تحرير
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-نسخ
-تحرير
-
-نسخ
-تحرير
-
-نسخ
-تحرير
-
-
-نسخ
-تحرير
-نسخ
-تحرير
-
-نسخ
-تحرير
+ت
