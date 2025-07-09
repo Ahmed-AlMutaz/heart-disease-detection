@@ -5,7 +5,7 @@ It includes preprocessing, feature selection, modeling, and a deployed web inter
 
 ---
 
-<pre> ```bash <
+```
                 
   
   
@@ -35,7 +35,7 @@ Heart_Disease_Project/
 │── .gitignore
 │── README.md
 
-> ``` </pre>
+``` 
 
 ---
 
