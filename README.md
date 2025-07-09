@@ -6,11 +6,7 @@ It includes preprocessing, feature selection, modeling, and a deployed web inter
 ---
 
 ```
-                
-  
-  
 ## 🗂️ Project Structure
-
 
 Heart_Disease_Project/
 │── data/
@@ -36,7 +32,6 @@ Heart_Disease_Project/
 │── README.md
 
 ``` 
-
 ---
 
 ## 📦 Installation
