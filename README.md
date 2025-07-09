@@ -91,6 +91,3 @@ See: requirements.txt
 
 📬 Contact
 For any questions, feel free to reach out to [amotaz792@gmail.com ].
-
-نسخ
-ت
