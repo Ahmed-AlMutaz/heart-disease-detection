@@ -9,27 +9,20 @@ It includes preprocessing, feature selection, modeling, and a deployed web inter
 ## 🗂️ Project Structure
 
 Heart_Disease_Project/
-│── data/
-│ └── heart_disease.csv
-│── notebooks/
-│ ├── 01_data_preprocessing.ipynb
-│ ├── 02_pca_analysis.ipynb
-│ ├── 03_feature_selection.ipynb
-│ ├── 04_supervised_learning.ipynb
-│ ├── 05_unsupervised_learning.ipynb
-│ └── 06_hyperparameter_tuning.ipynb
-│── models/
-│ └── final_model.pkl
-│── ui/
-│ └── app.py # Streamlit Web Interface
-│── deployment/
-│ └── ngrok_setup.txt # Instructions to run app online via Ngrok
-│── results/
-│ └── evaluation_metrics.txt
-│── used_features.json # Final selected features for prediction
-│── requirements.txt # Python dependencies
-│── .gitignore
-│── README.md
+│
+├── data/
+│   └── heart_disease_cleaned.csv
+│
+├── models/
+│   └── pipeline_model2.joblib
+│
+├── ui/
+│   └── App.py
+│
+├── used_features2.json
+├── requirements.txt
+├── README.md 
+
 
 ``` 
 ---
