@@ -17,7 +17,8 @@ streamlit run ui/App.py
 
 ---
 
-```
+~~~
+
 ## 🗂️ Project Structure
 
 Heart_Disease_Project/
@@ -36,7 +37,7 @@ Heart_Disease_Project/
 ├── README.md 
 
 
-``` 
+~~~
 ---
 
 ## 📦 Installation
